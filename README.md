@@ -1,4 +1,4 @@
-[![MasterHead](https:https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://tonimadristy.io)
+[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://tonimadristy.io)
 <h1 align="center">Hi 👋, I'm Tonima Dristy</h1>
 <h3 align="center">CSE Undergraduate | Full-Stack Development Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
