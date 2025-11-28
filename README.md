@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 <h1 align="center">Hi 👋 I'm Tonima Dristy</h1>
-<h3 align="center">CSE Undergraduate |</h3>
+<h3 align="center">CSE Undergraduate </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonimadristy&label=Profile%20views&color=0e75b6&style=flat" alt="tonimadristy" /> </p>
 
