@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonimadristy&label=Profile%20views&color=0e75b6&style=flat" alt="tonimadristy" /> </p>
 
-- 🔭 I’m currently working on [Unishare ,ReactJS](https://github.com/tasmim-tahsin/unishare , https://github.com/TonimaDristy/ReactJS)
+- 🔭 I’m currently working on [Unishare](https://github.com/tasmim-tahsin/unishare)
 
 - 🌱 I’m currently learning **Full-stack development and UI/UX design**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tonima islam dristy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonima islam dristy" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/tonima-dristy650]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonima islam dristy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
