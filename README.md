@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Unishare](https://github.com/tasmim-tahsin/unishare) ,https://github.com/TonimaDristy/ReactJS
 
-- 👩‍💻 I’m currently learning **Backend development and UI/UX design**
+- 👩‍💻 I’m currently learning **Full-Stack development and UI/UX design**
 
 - 📫 How to reach me **tidristy477@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> www.linkedin.com/in/tonima-dristy650
 <p align="left">
 </p>
 
