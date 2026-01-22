@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonimadristy&label=Profile%20views&color=0e75b6&style=flat" alt="tonimadristy" /> </p>
 
-- 🔭 I’m currently working on [Unishare](https://github.com/tasmim-tahsin/unishare)
+- 🔭 I’m currently working on [Unishare](https://github.com/TonimaDristy/Full-Stack)
 
-- 🌱 I’m currently learning **Full-stack development, AI agent development and UI/UX design**
+- 🌱 I’m currently learning **Full-stack development, AI agent development**
 
 - 💬 About me: **I am actively building projects to strengthen my full-stack skills also continuously learning and looking to grow as a developer by exploring modern technologies and real-world projects.**
 
