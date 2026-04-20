@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI agent development, and Machine Learning fundamentals.**
 
-- 💬 About me: **I am actively building projects to strengthen my full-stack skills while gaining hands-on experience in web development through my internship, and continuously learning modern technologies by working on real-world projects.**
+- 💬 About me: **I am actively building projects to strengthen my full-stack skills while gaining hands-on experience in web development through my internship, and continuously learning modern technologies by working on real-world projects.This is my portfolio https://dristyportlio.netlify.app/**
 
 - 📫 How to reach me **tidristy477@gmail.com, dristytonima@gmail.com**
 
