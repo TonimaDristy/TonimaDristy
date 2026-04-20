@@ -7,15 +7,16 @@
 
 - 🔭 I’m currently working on [AI Engineering Bootcamp](https://github.com/TonimaDristy/AI-ML-Engineering-)
 
-- 🌱 I’m currently learning **AI agent development, and Machine Learning fundamentals**
+- 🌱 I’m currently learning **AI agent development, and Machine Learning fundamentals.**
 
-- 💬 About me: **I am actively building projects to strengthen my full-stack skills while gaining hands-on experience in web development, and continuously learning modern technologies by working on real-world projects.**
+- 💬 About me: **I am actively building projects to strengthen my full-stack skills while gaining hands-on experience in web development through my internship, and continuously learning modern technologies by working on real-world projects.**
 
 - 📫 How to reach me **tidristy477@gmail.com, dristytonima@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tonima-dristy650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonima islam dristy" height="30" width="40" /></a>
+  <a href="https://dristyportlio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonima islam dristy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
